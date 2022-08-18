@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>入力画面</title>
+		<title>入力画面(20220819)</title>
 	</head>
 	<body>
 		<h1>サンプルプログラム（改修後）</h1>
